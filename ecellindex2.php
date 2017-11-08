@@ -724,6 +724,7 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 		.footer-social {
 			font-size:20px;
 			color: inherit;
+			padding-left:0 !important;
 			text-decoration:none !important;
 		}
 		
