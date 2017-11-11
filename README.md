@@ -13,10 +13,10 @@ Ex. -
 
 <b>Built with</b>
 - jQuery
--Javascript
--PHP
--HTML
--CSS
+- Javascript
+- PHP
+- HTML
+- CSS
 
 ## Features
 Destined to be the best e-cell page ever,anywhere 
@@ -35,6 +35,5 @@ Shout out to web-tiki and his awesome hexagon grid.
 
 
 ## License
-A short snippet describing the license (MIT, Apache etc)
 
-MIT © [Daipayan]()
+MIT © [Daipayan]
